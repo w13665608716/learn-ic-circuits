@@ -1,0 +1,4 @@
+interface:
+  display_name: "IC 电路分层学习"
+  short_description: "从网表与原理图分层学习电路，按需验证并生成可复习的学习卡片"
+  default_prompt: "使用 $learn-ic-circuits 带我学习这个电路，先判断适合模块级还是晶体管级，再按需仿真并整理 Markdown 学习卡片。"
